@@ -46,10 +46,15 @@ Exercícios Envolvendo Tuplas(23), Listas[24, 25, 26] e Dicionários{27, 28}.
 27 - Cadastro de Pessoas;
 28 - Cadastro de Jogadores com Consultas de Dados.
 
-Projetos 23 ao 28.
+Projetos 29 ao 33.
 Exercícios Envolvendo Funções.
 29 - P.A. 3.0 (Função Contador)
 30 - Função Sorteio
 31 - Função Obrigatóriedade de Voto.py
 32 - Função Análise de Situação Escolar
 33 - PyHelp (Ajuda com Documentações Python)
+
+Projetos 34 e 35.
+Exercícios Envolvendo Modularização e Tratamento de Erros.
+34 - Modularização
+35 - Tratamento de Erros
